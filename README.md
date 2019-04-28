@@ -1,16 +1,9 @@
 A python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code. 
 
-
-An AI Commons project https://aicommons.science Developed and Maintained by Moses Olafenwa and John Olafenwa, brothers, creators of TorchFusion and Authors of Introduction to Deep Computer Vision
-
 Built with simplicity in mind, ImageAI supports a list of state-of-the-art Machine Learning algorithms for image prediction, custom image prediction, object detection, video detection, video object tracking and image predictions trainings. ImageAI currently supports image prediction and training using 4 different Machine Learning algorithms trained on the ImageNet-1000 dataset. ImageAI also supports object detection, video detection and object tracking using RetinaNet, YOLOv3 and TinyYOLOv3 trained on COCO dataset. 
 Eventually, ImageAI will provide support for a wider and more specialized aspects of Computer Vision including and not limited to image recognition in special environments and special fields.
 
-
-
-
-New Release : ImageAI 2.0.2 
-What's new: 
+Features:
 
 Option to state image size during custom image prediction model trainings 
 Object Detection and Video Object detection now returns bounding box coordinates ('box points') (x1,y1,x2, y2) for each object detected in addition to object's 'name' and 'percentage probability' 
