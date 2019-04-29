@@ -8,5 +8,4 @@ setup(name="imageai",
       license='MIT',
       packages= find_packages(),
       zip_safe=False
-
-      )
+     )
